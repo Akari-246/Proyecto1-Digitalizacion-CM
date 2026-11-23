@@ -50,8 +50,7 @@ flowchart TB
 - Rosa: componentes de IA.
 <br>
 
-> Si el diagrama no se renderiza, consulta la imagen.
-![Diagrama IT/OT](imagenes/diagrama.png)
+> Si el diagrama no se renderiza, consulta la imagen en la carpeta imagenes
 
 ---
 
