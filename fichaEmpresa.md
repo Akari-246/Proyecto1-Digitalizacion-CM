@@ -6,6 +6,7 @@ La digitalización puede abordarse desde dos perspectivas. La **digitalización 
 ## Datos de la empresa
 
 **Sector:** industria farmacéutica.
+
 **Empresa ficticia:** PharmaTech.
 
 ## Características principales
